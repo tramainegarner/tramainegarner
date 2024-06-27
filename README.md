@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
+![My Profile Picture](https://github.com/tramainegarner/tramainegarner/blob/main/TramaineGarner_FullStackDeveloper.png)
 ## About Me
 
 HI! I’M TRAMAINE
