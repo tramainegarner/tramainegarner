@@ -53,6 +53,3 @@ If you like my work, consider buying me a coffee!
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tramainegarner&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tramainegarner&layout=compact)
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-
