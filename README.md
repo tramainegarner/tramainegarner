@@ -32,22 +32,6 @@ Description of project 2. Built using...
 - **[University Name]** - [Degree Title] (Year of Graduation)
 - **[Certification Name]** - [Institution Name] (Year of Completion)
 
-## 🎉 Achievements
-
-- **Award/Honor Name** - Awarding Organization (Year)
-- **Certification Name** - Certifying Organization (Year)
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/tramainegarner)
-- [Website](https://www.tramainegarner.dev)
-
-## 💖 Support Me
-
-If you like my work, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tramainegarner&show_icons=true)
