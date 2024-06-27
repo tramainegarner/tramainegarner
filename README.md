@@ -1,7 +1,8 @@
-![My Profile Picture](https://github.com/tramainegarner/tramainegarner/blob/main/TramaineGarner_FullStackDeveloper.png)
+# HI!👋 I’M TRAMAINE 
 
-# HI! I’M TRAMAINE 👋
 I am a multidisciplinary Full-Stack Developer and Designer with an Information Technology background based in Toronto, Canada. I design, create, and develop purposeful projects that prioritize people, problems, and the connections between them. With many years of experience, I can achieve your project's goals in web applications, digital products, and print media.
+
+![My Profile Picture](https://github.com/tramainegarner/tramainegarner/blob/main/TramaineGarner_FullStackDeveloper.png)
 
 ## 🛠️ Skills
 
@@ -49,9 +50,9 @@ If you like my work, consider buying me a coffee!
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tramainegarner&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tramainegarner&layout=compact)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
