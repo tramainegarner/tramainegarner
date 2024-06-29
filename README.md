@@ -19,6 +19,28 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 - **Adobe CC:** Photoshop® • Illustrator® • InDesign® • Dreamweaver • Dimension® • Aero® • After Effects® • Premiere Pro®
 - **Design Deliverables:** User Interviews & Focus Groups • Competitive Audit • Diary Studies • Personas • User Stories • Use Cases and Scenarios • Task Analysis • Taxonomies • Content Audit • Heuristic Analysis • Accessibility Analysis • Mental Models • Ideation Sketches • Mood Boards • Wireframes • Mock-ups • Prototypes • Pattern Libraries & Design Systems • Sitemaps • Card Sorting • Usability Testing • A/B Testing • Eye Tracking • Quantitative Surveys • Task Flows • Storyboards • Journey Maps
 - **Technical Proficiencies:** Git/GitHub • Linux • Windows Server • macOS • TCP/IP • DNS • DHCP • Cybersecurity principles • SSL/TLS
+## My Multi-section Accordion
+
+<details>
+<summary>Section 1</summary>
+
+Content of section 1 goes here.
+
+</details>
+
+<details>
+<summary>Section 2</summary>
+
+Content of section 2 goes here.
+
+</details>
+
+<details>
+<summary>Section 3</summary>
+
+Content of section 3 goes here.
+
+</details>
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tramainegarner&layout=compact)
