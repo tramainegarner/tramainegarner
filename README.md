@@ -6,6 +6,16 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 
 ## 🛠️ Skills
 
+
+
+
+
+- **Technical Proficiencies:** Git/GitHub • Linux • Windows Server • macOS • TCP/IP • DNS • DHCP • Cybersecurity principles • SSL/TLS
+
+
+<details>
+<summary>Development</summary>
+
 - **Markup Languages:** HTML • DTD • SVG • XML • XSD • XSL • XSLT
 - **Query Languages:** XQuery • XPath
 - **Styling & Preprocessor Languages:** CSS • Sass • Less
@@ -15,30 +25,25 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 - **Libraries:** React • jQuery
 - **Software Stacks:** LAMP • MEAN • MERN • MEVN
 - **Databases:** NoSQL • MongoDB • SQL • MySQL • PostgreSQL
+
+</details>
+
+<details>
+<summary>Designs</summary>
+
 - **Design Tools:** Pen & Paper • Box Cutter • Sketch • Figma • Miro • Hotjar
 - **Adobe CC:** Photoshop® • Illustrator® • InDesign® • Dreamweaver • Dimension® • Aero® • After Effects® • Premiere Pro®
 - **Design Deliverables:** User Interviews & Focus Groups • Competitive Audit • Diary Studies • Personas • User Stories • Use Cases and Scenarios • Task Analysis • Taxonomies • Content Audit • Heuristic Analysis • Accessibility Analysis • Mental Models • Ideation Sketches • Mood Boards • Wireframes • Mock-ups • Prototypes • Pattern Libraries & Design Systems • Sitemaps • Card Sorting • Usability Testing • A/B Testing • Eye Tracking • Quantitative Surveys • Task Flows • Storyboards • Journey Maps
-- **Technical Proficiencies:** Git/GitHub • Linux • Windows Server • macOS • TCP/IP • DNS • DHCP • Cybersecurity principles • SSL/TLS
-## My Multi-section Accordion
-
-<details>
-<summary>Section 1</summary>
-
-Content of section 1 goes here.
 
 </details>
 
 <details>
-<summary>Section 2</summary>
+<summary>Technologies</summary>
 
-Content of section 2 goes here.
-
-</details>
-
-<details>
-<summary>Section 3</summary>
-
-Content of section 3 goes here.
+- **DevOps & Tools:** Git & GitHub • Jenkins • CI/CD pipelines
+- **Operating System:** Linux (Ubuntu, Red Hat, Gentoo) • Windows Server • macOS
+- **Networking:** TCP/IP • DNS • DHCP • VPNs
+- **Security & Automation:** Cybersecurity principles • SSL/TLS • Bash scripting, Python scripting for automation
 
 </details>
 
