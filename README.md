@@ -23,7 +23,7 @@ With a rich background spanning various technology domains, I offer a wealth of 
 </details>
 
 <details>
-<summary>Designs</summary>
+<summary><strong>Designs</strong></summary>
 
 - **Design Tools:** Pen & Paper • Box Cutter • Sketch • Figma • Miro • Hotjar
 - **Adobe CC:** Photoshop® • Illustrator® • InDesign® • Dreamweaver • Dimension® • Aero® • After Effects® • Premiere Pro®
