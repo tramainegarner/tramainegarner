@@ -21,7 +21,4 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 - **Technical Proficiencies:** Git/GitHub • Linux • Windows Server • macOS • TCP/IP • DNS • DHCP • Cybersecurity principles • SSL/TLS
 
 ## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tramainegarner&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tramainegarner&layout=compact)
