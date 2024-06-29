@@ -5,14 +5,6 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 ![My Profile Picture](https://github.com/tramainegarner/tramainegarner/blob/main/TramaineGarner_FullStackDeveloper.png)
 
 ## 🛠️ Skills
-
-
-
-
-
-
-
-
 <details>
 <summary>Development</summary>
 
@@ -27,7 +19,6 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 - **Databases:** NoSQL • MongoDB • SQL • MySQL • PostgreSQL
 
 </details>
-
 <details>
 <summary>Designs</summary>
 
@@ -36,7 +27,6 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 - **Design Deliverables:** User Interviews & Focus Groups • Competitive Audit • Diary Studies • Personas • User Stories • Use Cases and Scenarios • Task Analysis • Taxonomies • Content Audit • Heuristic Analysis • Accessibility Analysis • Mental Models • Ideation Sketches • Mood Boards • Wireframes • Mock-ups • Prototypes • Pattern Libraries & Design Systems • Sitemaps • Card Sorting • Usability Testing • A/B Testing • Eye Tracking • Quantitative Surveys • Task Flows • Storyboards • Journey Maps
 
 </details>
-
 <details>
 <summary>Technologies</summary>
 
