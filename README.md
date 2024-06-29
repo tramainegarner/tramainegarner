@@ -12,26 +12,6 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 - **Software Stacks:** LAMP • MEAN • MERN
 - **Databases:** NoSQL • MongoDB • SQL • MySQL • PostgreSQL
 
-## 🚀 Projects
-
-### [Project 1 Name](https://github.com/tramainegarner/project1)
-Description of project 1. Built using...
-
-### [Project 2 Name](https://github.com/tramainegarner/project2)
-Description of project 2. Built using...
-
-## 💼 Experience
-
-- **[Company Name]** - [Job Title] (Year-Year)
-  - Achievements and Responsibilities
-- **[Company Name]** - [Job Title] (Year-Year)
-  - Achievements and Responsibilities
-
-## 📚 Education
-
-- **[University Name]** - [Degree Title] (Year of Graduation)
-- **[Certification Name]** - [Institution Name] (Year of Completion)
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tramainegarner&show_icons=true)
