@@ -11,19 +11,19 @@ With a rich background spanning various technology domains, I offer a wealth of 
 <summary><strong>[Development]</strong></summary>
 
 - Markup Languages: HTML • DTD • SVG • XML • XSD • XSL • XSLT
-- **Query Languages:** XQuery • XPath
-- **Styling & Preprocessor Languages:** CSS • Sass • Less
-- **Programming Languages:** JavaScript • TypeScript • Java • PHP • Python • C • C++ • Bash • Swift
-- **Web Development Frameworks:** Angular2+ • Django • Express • Laravel • Vue
-- **UI Frameworks:** SwiftUI • UIKit • Bootstrap
-- **Libraries:** React • jQuery
-- **Software Stacks:** LAMP • MEAN • MERN • MEVN
-- **Databases:** NoSQL • MongoDB • SQL • MySQL • PostgreSQL
+- Query Languages: XQuery • XPath
+- Styling & Preprocessor Languages: CSS • Sass • Less
+- Programming Languages: JavaScript • TypeScript • Java • PHP • Python • C • C++ • Bash • Swift
+- Web Development Frameworks: Angular2+ • Django • Express • Laravel • Vue
+- UI Frameworks: SwiftUI • UIKit • Bootstrap
+- Libraries: React • jQuery
+- Software Stacks: LAMP • MEAN • MERN • MEVN
+- Databases: NoSQL • MongoDB • SQL • MySQL • PostgreSQL
 
 </details>
 
 <details>
-<summary>Designs</summary>
+<summary><strong>[Designs]</strong></summary>
 
 - **Design Tools:** Pen & Paper • Box Cutter • Sketch • Figma • Miro • Hotjar
 - **Adobe CC:** Photoshop® • Illustrator® • InDesign® • Dreamweaver • Dimension® • Aero® • After Effects® • Premiere Pro®
