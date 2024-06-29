@@ -6,11 +6,17 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 
 ## 🛠️ Skills
 
-- **Languages:** HTML • DTD • SVG • XML • XSD • XSL • XSLT • XQuery • XPath • CSS • Sass • Less • JavaScript • ES6+ • TypeScript • Java • PHP • Python • C • C++ • Bash • Swift
-- **Frameworks:** Angular2+ • Django • Express • Laravel • Vue • SwiftUI • UIKit
-- **Libraries:** Bootstrap • React • jQuery
-- **Software Stacks:** LAMP • MEAN • MERN
+- **Markup Languages:** HTML • DTD • SVG • XML • XSD • XSL • XSLT
+- **Query Languages:** XQuery • XPath
+- **Styling & Preprocessor Languages:** CSS • Sass • Less
+- **Programming Languages:** JavaScript(ES6+) • TypeScript • Java • PHP • Python • C • C++ • Bash • Swift
+- **Web Development Frameworks:** Angular2+ • Django • Express • Laravel • Vue
+- **UI Frameworks:** SwiftUI • UIKit • Bootstrap
+- **Libraries:** React • jQuery
+- **Software Stacks:** LAMP • MEAN • MERN • MEVN
 - **Databases:** NoSQL • MongoDB • SQL • MySQL • PostgreSQL
+- **Design Tools:** Pen & Paper • Box Cutter • Sketch • Figma • Miro • Hotjar
+- **Design Deliverables:** User Interviews & Focus Groups • Competitive Audit • Diary Studies • Personas • User Stories • Use Cases and Scenarios • Task Analysis • Taxonomies • Content Audit • Heuristic Analysis • Accessibility Analysis • Mental Models • Ideation Sketches • Mood Boards • Wireframes • Mock-ups • Prototypes • Pattern Libraries & Design Systems • Sitemaps • Card Sorting • Usability Testing • A/B Testing • Eye Tracking • Quantitative Surveys • Task Flows • Storyboards • Journey Maps 
 
 ## 📊 GitHub Stats
 
