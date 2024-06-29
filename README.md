@@ -40,6 +40,3 @@ With a rich background spanning various technology domains, I offer a wealth of 
 - **Security & Automation:** Cybersecurity principles • SSL/TLS • Bash scripting, Python scripting for automation
 
 </details>
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tramainegarner&layout=compact)
