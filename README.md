@@ -8,9 +8,9 @@ With a rich background spanning various technology domains, I offer a wealth of 
 
 ## 🛠️ Skills
 <details>
-<summary>Development</summary>
+<summary>[Development]</summary>
 
-- [Markup Languages]: HTML • DTD • SVG • XML • XSD • XSL • XSLT
+- Markup Languages: HTML • DTD • SVG • XML • XSD • XSL • XSLT
 - **Query Languages:** XQuery • XPath
 - **Styling & Preprocessor Languages:** CSS • Sass • Less
 - **Programming Languages:** JavaScript • TypeScript • Java • PHP • Python • C • C++ • Bash • Swift
