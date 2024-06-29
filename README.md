@@ -8,17 +8,17 @@ With a rich background spanning various technology domains, I offer a wealth of 
 
 ## 🛠️ Skills
 <details>
-<summary><strong>[Development]</strong></summary>
+<summary><strong>Development</strong></summary>
 
-- Markup Languages: HTML • DTD • SVG • XML • XSD • XSL • XSLT
-- Query Languages: XQuery • XPath
-- Styling & Preprocessor Languages: CSS • Sass • Less
-- Programming Languages: JavaScript • TypeScript • Java • PHP • Python • C • C++ • Bash • Swift
-- Web Development Frameworks: Angular2+ • Django • Express • Laravel • Vue
-- UI Frameworks: SwiftUI • UIKit • Bootstrap
-- Libraries: React • jQuery
-- Software Stacks: LAMP • MEAN • MERN • MEVN
-- Databases: NoSQL • MongoDB • SQL • MySQL • PostgreSQL
+- **Markup Languages:** HTML • DTD • SVG • XML • XSD • XSL • XSLT
+- **Query Languages:** XQuery • XPath
+- **Styling & Preprocessor Languages:** CSS • Sass • Less
+- **Programming Languages:** JavaScript • TypeScript • Java • PHP • Python • C • C++ • Bash • Swift
+- **Web Development Frameworks:** Angular2+ • Django • Express • Laravel • Vue
+- **UI Frameworks:** SwiftUI • UIKit • Bootstrap
+- **Libraries:** React • jQuery
+- **Software Stacks:** LAMP • MEAN • MERN • MEVN
+- **Databases:** NoSQL • MongoDB • SQL • MySQL • PostgreSQL
 
 </details>
 
@@ -32,7 +32,7 @@ With a rich background spanning various technology domains, I offer a wealth of 
 </details>
 
 <details>
-<summary>Technologies</summary>
+<summary><strong>Technologies</strong></summary>
 
 - **DevOps & Tools:** Git & GitHub • Jenkins • CI/CD pipelines
 - **Operating System:** Linux (Ubuntu, Red Hat, Gentoo) • Windows Server • macOS
