@@ -4,6 +4,8 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 
 ![My Profile Picture](https://github.com/tramainegarner/tramainegarner/blob/main/TramaineGarner_FullStackDeveloper.png)
 
+With a rich background spanning various technology domains, I offer a wealth of experience like no other. Explore each of my skills categories below and visit my repositories for more insights.
+
 ## 🛠️ Skills
 <details>
 <summary>Development</summary>
