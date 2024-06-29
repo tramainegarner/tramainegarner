@@ -10,7 +10,7 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 
 
 
-- **Technical Proficiencies:** Git/GitHub • Linux • Windows Server • macOS • TCP/IP • DNS • DHCP • Cybersecurity principles • SSL/TLS
+
 
 
 <details>
