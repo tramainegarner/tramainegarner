@@ -8,14 +8,14 @@ With a rich background spanning various technology domains, I offer a wealth of 
 
 ## 🛠️ Skills
 <details>
-<summary><strong>Development</strong></summary>
+<summary><strong>Web, Mobile & Database Development</strong></summary>
 
 - **Markup Languages:** HTML • DTD • SVG • XML • XSD • XSL • XSLT
 - **Query Languages:** XQuery • XPath
 - **Styling & Preprocessor Languages:** CSS • Sass • Less
-- **Programming Languages:** JavaScript • TypeScript • Java • PHP • Python • C • C++ • Bash • Swift
-- **Web Development Frameworks:** Angular2+ • Django • Express • Laravel • Vue
-- **UI Frameworks:** SwiftUI • UIKit • Bootstrap
+- **Programming Languages:** JavaScript • TypeScript • Java • Kotlin • PHP • Python • Ruby • C • C++ • Bash • Swift • Dart
+- **Web Development Frameworks:** Angular2+ • Django • Express • Laravel • Vue • Rails
+- **UI Frameworks:** SwiftUI • UIKit • Bootstrap • Flutter (**SDK**) • React Native
 - **Libraries:** React • jQuery
 - **Software Stacks:** LAMP • MEAN • MERN • MEVN
 - **Databases:** NoSQL • MongoDB • SQL • MySQL • PostgreSQL
@@ -23,7 +23,7 @@ With a rich background spanning various technology domains, I offer a wealth of 
 </details>
 
 <details>
-<summary><strong>Designs</strong></summary>
+<summary><strong>UX & Digital Graphic Design</strong></summary>
 
 - **Design Tools:** Pen & Paper • Box Cutter • Sketch • Figma • Miro • Hotjar
 - **Adobe CC:** Photoshop® • Illustrator® • InDesign® • Dreamweaver • Dimension® • Aero® • After Effects® • Premiere Pro®
@@ -32,11 +32,11 @@ With a rich background spanning various technology domains, I offer a wealth of 
 </details>
 
 <details>
-<summary><strong>Technologies</strong></summary>
+<summary><strong>Information Technology</strong></summary>
 
 - **DevOps & Tools:** Git & GitHub • Jenkins • CI/CD pipelines
 - **Operating System:** Linux (Ubuntu, Red Hat, Gentoo) • Windows Server • macOS
-- **Networking:** TCP/IP • DNS • DHCP • VPNs
+- **Networking:** TCP/IP • UDP • HTTP • HTTPS • FTPS • SFTP • SMTP • POP3 • IMAP • DNS • DHCP • VPNs • VLANs • STP
 - **Security & Automation:** Cybersecurity principles • SSL/TLS • Bash scripting, Python scripting for automation
 
 </details>
