@@ -40,3 +40,5 @@ With a rich background spanning various technology domains, I offer a wealth of 
 - **Security & Automation:** Cybersecurity principles • SSL/TLS • Bash scripting, Python scripting for automation
 
 </details>
+
+*Visit my portfolio at [https://www.tramainegarner.dev](https://www.tramainegarner.dev) to see my expertise in action across development, design, and technology.*
