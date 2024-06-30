@@ -19,6 +19,7 @@ With a rich background spanning various technology domains, I offer a wealth of 
 - **Libraries:** React • jQuery
 - **Software Stacks:** LAMP • MEAN • MERN • MEVN
 - **Databases:** NoSQL • MongoDB • SQL • MySQL • PostgreSQL
+- **CMS:** WordPress
 
 </details>
 
@@ -34,7 +35,7 @@ With a rich background spanning various technology domains, I offer a wealth of 
 <details>
 <summary><strong>Information Technology</strong></summary>
 
-- **DevOps & Tools:** Git & GitHub • Jenkins • CI/CD pipelines
+- **DevOps & Tools:** CI/CD pipelines • Git & GitHub • npm • pip • yarn • Jenkins
 - **Operating System:** Linux (Ubuntu, Red Hat, Gentoo) • Windows Server • macOS
 - **Networking:** TCP/IP • UDP • HTTP • HTTPS • FTPS • SFTP • SMTP • POP3 • IMAP • DNS • DHCP • VPNs • VLANs • STP
 - **Security & Automation:** Cybersecurity principles • SSL/TLS • Bash scripting, Python scripting for automation
