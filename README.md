@@ -10,7 +10,7 @@ With a rich background spanning various technology domains, I offer a wealth of 
 <details>
 <summary><strong>Web, Mobile & Database Development</strong></summary>
 
-- **Markup Languages:** HTML • DTD • SVG • XML • XSD • XSL • XSLT
+- **Markup Languages:** HTML • DTD • XML • XSD • XSL • XSLT • SVG 
 - **Query Languages:** XQuery • XPath
 - **Styling & Preprocessor Languages:** CSS • Sass • Less
 - **Programming Languages:** JavaScript • TypeScript • Java • Kotlin • PHP • Python • Ruby • C • C++ • Bash • Swift • Dart
