@@ -4,7 +4,7 @@ I am a **multidisciplinary Full-Stack Developer and Designer** with an **Informa
 
 ![My Profile Picture](https://github.com/tramainegarner/tramainegarner/blob/main/TramaineGarner_FullStackDeveloper.png)
 
-With a rich background spanning various technology domains, I offer a wealth of experience like no other. Please take the time to explore my detailed skills and repositories listings below for deeper insights. Additionally, visit my portfolio at [https://www.tramainegarner.dev](https://www.tramainegarner.dev) to see other proficiencies in action across development, design, and technology domains.
+With a rich background spanning various technological domains, I offer a wealth of experience like no other. Please take the time to explore my skills listings and repositories below for deeper insights. Additionally, visit my portfolio at [https://www.tramainegarner.dev](https://www.tramainegarner.dev) to see these skill sets in action across development, design, and technology domains. Lastly, follow me on Instagram for a glimpse of the designs I create, especially digital graphic designs.
 
 ## 🛠️ Skills
 <details>
