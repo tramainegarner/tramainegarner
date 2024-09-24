@@ -27,7 +27,7 @@ With a rich background spanning various technological domains, I offer a wealth 
 <summary><strong>UX & Digital Graphic Design</strong></summary>
 
 - **Design Tools:** Pen & Paper • Box Cutter • Sketch • Figma • Miro • Hotjar
-- **Adobe CC:** Photoshop® • Illustrator® • InDesign® • Dreamweaver • Dimension® • Aero® • After Effects® • Premiere Pro®
+- **Adobe CC:** Photoshop® • Illustrator® • InDesign® • Dreamweaver® • Dimension® • Aero® • After Effects® • Premiere Pro®
 - **Design Deliverables:** User Interviews & Focus Groups • Competitive Audit • Diary Studies • Personas • User Stories • Use Cases and Scenarios • Task Analysis • Taxonomies • Content Audit • Heuristic Analysis • Accessibility Analysis • Mental Models • Ideation Sketches • Mood Boards • Wireframes • Mock-ups • Prototypes • Pattern Libraries & Design Systems • Sitemaps • Card Sorting • Usability Testing • A/B Testing • Eye Tracking • Quantitative Surveys • Task Flows • Storyboards • Journey Maps
 
 </details>
