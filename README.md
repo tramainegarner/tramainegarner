@@ -13,7 +13,7 @@ With a rich background spanning various technological domains, I offer a wealth 
 - **Markup & Data Formats:** HTML • DTD • XML • XSD • XSL • XSLT • SVG • XForms • JSON • CSV • YAML
 - **Query Languages:** XQuery • XPath
 - **Styling & Preprocessor Languages:** CSS • Sass • Less
-- **Programming Languages:** JavaScript (ES6+) • TypeScript • Java • Kotlin • PHP • Python • Ruby • C • C++ • Bash • Swift • Dart
+- **Programming Languages:** JavaScript (ES6+) • TypeScript • Java • Kotlin • PHP • Python • Ruby • C • C++ • C# • Bash • Swift • Dart
 - **Web Development Frameworks:** Angular2+ • Django • Express • Laravel • Vue • Rails
 - **UI Frameworks:** SwiftUI • UIKit • Bootstrap • Flutter (**SDK**) • React Native
 - **Libraries:** React • jQuery
