@@ -15,7 +15,7 @@ With a rich background spanning various technological domains, I offer a wealth 
 - **Styling & Preprocessor Languages:** CSS • Sass • Less
 - **Programming Languages:** JavaScript (ES6+) • TypeScript • Java • Kotlin • PHP • Python • Ruby • C • C++ • C# • Dart • Swift
 - **Shell Scripting Languages:** Bash • PowerShell
-- **Web Development Frameworks:** Angular2+ • Django • Express • Laravel • Vue • Rails • ASP.NET • Next.js
+- **Web Frameworks & Services:** Angular2+ • Django • Express • Laravel • Vue • Rails • ASP.NET • Next.js • RESTful Services • SOAP
 - **UI Frameworks:** SwiftUI • UIKit • Bootstrap • Flutter (**SDK**) • React Native • Tailwind CSS (**Utility-first CSS framework**)
 - **Libraries:** React • jQuery
 - **Software Stacks:** LAMP • MEAN • MERN • MEVN
