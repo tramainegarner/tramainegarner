@@ -16,7 +16,7 @@ With a rich background spanning various technological domains, I offer a wealth 
 - **Programming Languages:** JavaScript (ES6+) • TypeScript • Java • Kotlin • PHP • Python • Ruby • C • C++ • C# • Dart • Swift
 - **Shell Scripting Languages:** Bash • PowerShell
 - **Web Frameworks:** Angular2+ • Django • Express • Laravel • Vue • Rails • ASP.NET • Next.js
-- **Web Services:** REST APIs • SOAP
+- **Web Services:** REST APIs • SOAP • GraphQL
 - **UI Frameworks:** SwiftUI • UIKit • Bootstrap • Flutter (**SDK**) • React Native • Tailwind CSS (**Utility-first CSS framework**)
 - **Libraries:** React • jQuery
 - **Software Stacks:** LAMP • MEAN • MERN • MEVN
