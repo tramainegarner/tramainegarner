@@ -43,7 +43,7 @@ With a rich background spanning various technological domains, I offer a wealth 
 - **Security & Automation:** Cybersecurity principles, SSL/TLS, Bash scripting, Python scripting for automation
 - **Cloud Computing Platforms:** AWS, Azure
 - **Containeerization:** Docker, Kubernetes
-- **Productivity Software:** Access, Excel, OneNote, Outlook, PowerPoint, Word
+- **Microsoft Office Tools:** Access, Excel, OneNote, Outlook, PowerPoint, Word
 - **Methodologies:** Agile, Scrum
 
 </details>
