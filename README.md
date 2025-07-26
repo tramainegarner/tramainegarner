@@ -20,7 +20,7 @@ With a rich background spanning various technological domains, I offer a wealth 
 - **UI Frameworks:** Bootstrap, Flutter **(SDK)**, React Native, SwiftUI, Tailwind CSS **(Utility-first CSS framework)**, UIKit
 - **Libraries:** React, jQuery
 - **Software Stacks:** LAMP, MEAN, MERN, MEVN
-- **Databases:** MongoDB, MySQL, NoSQL, PostgreSQL, SQL
+- **Databases:** MongoDB, MySQL, NoSQL, PostgreSQL, SQL, SQLite
 - **CMS:** WordPress
 
 </details>
