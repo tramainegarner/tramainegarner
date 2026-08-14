@@ -40,7 +40,9 @@ With a rich background spanning various technological domains, I offer a wealth 
 - **DevOps & Tools:** CI/CD pipelines, Jenkins, Git, GitHub, npm, pip, yarn
 - **Operating System:** Android, Linux (Gentoo, Red Hat, Ubuntu), macOS, Windows Server, iOS
 - **Networking:** DHCP, DNS, FTPS, HTTP, HTTPS, IMAP, POP3, SMTP, STP, TCP/IP, UDP, VLANs, VPNs
-- **Security & Automation:** Cybersecurity principles, SSL/TLS, Bash scripting, Python scripting for automation
+- **Security:** Cybersecurity Principles, Threat Management, Ethical Hacking, IAM
+- **Automation:** Bash, Python Scripting
+- **Artificial Intelligence:** ML Principles, LLM Integration, Prompt Engineering
 - **Cloud Computing Platforms:** AWS, Azure
 - **Containeerization:** Docker, Kubernetes
 - **Microsoft Office Tools:** Access, Excel, OneNote, Outlook, PowerPoint, Word
