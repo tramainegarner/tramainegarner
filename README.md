@@ -4,7 +4,8 @@ I’m a **multidisciplinary Full-Stack Developer and Designer** with a backgroun
 
 ![My Profile Picture](https://github.com/tramainegarner/tramainegarner/blob/main/TramaineGarner_FullStackDeveloper.png)
 
-Bridging technology, development, and design, my diverse background allows me to integrate these areas into projects of any scale. To see that integration in action, explore my codebases below, and visit my portfolio at [https://www.tramainegarner.dev](https://www.tramainegarner.dev) for a closer look at my design work.
+Bridging technology, development, and design, my diverse background allows me to apply these areas to projects of any scale. To see this approach in action, explore my codebases below, and visit my portfolio at [https://www.tramainegarner.dev](https://www.tramainegarner.dev) for a closer look at my design work.
+
 
 ## 🛠️ Skills
 <details>
