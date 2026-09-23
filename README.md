@@ -31,6 +31,7 @@ With a rich background spanning various technological domains, I offer a wealth 
 - **Design Tools:** Box Cutter, Figma, Hotjar, Miro, Pen & Paper, Sketch
 - **Adobe CC:** Acrobat, After Effects, Animate, Audition, Dimension, Dreamweaver, Illustrator, InDesign, Lightroom, Photoshop, Premiere Pro
 - **Design Deliverables:** A/B Testing, Accessibility Analysis, Card Sorting, Competitive Audit, Content Audit, Diary Studies, Eye Tracking, Heuristic Analysis, Ideation Sketches, Journey Maps, Mental Models, Mock-ups, Mood Boards, Personas, Pattern Libraries & Design Systems, Prototypes, Quantitative Surveys, Sitemaps, Storyboards, Task Analysis, Task Flows, Use Cases and Scenarios, User Interviews & Focus Groups, User Stories, Wireframes
+- **DesignOps:** Workflows, Documentation, Collaboration, Handoffs
 
 </details>
 
